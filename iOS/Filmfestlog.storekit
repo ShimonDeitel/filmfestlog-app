@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Festival-by-festival stats, yearly recap",
+          "displayName": "Filmfestlog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "festlog.pro",
+      "referenceName": "Filmfestlog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
